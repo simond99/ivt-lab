@@ -20,6 +20,7 @@ public class GT4500 implements SpaceShip {
     
     // TODO not implemented yet
 =======
+    
     // TODO not implemented yet
 >>>>>>> branch-B
     return false;
